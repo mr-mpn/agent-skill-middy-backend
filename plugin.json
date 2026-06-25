@@ -1,0 +1,8 @@
+{
+  "name": "middy-serverless-plugin",
+  "version": "1.0.0",
+  "description": "Guides development of serverless frameworks using Middy. Explains folder structures, single entry points, routing configuration, authentication middlewares, and error handling patterns.",
+  "author": {
+    "name": "Antigravity"
+  }
+}
